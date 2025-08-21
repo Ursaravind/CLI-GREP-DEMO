@@ -1,13 +1,13 @@
-/============================= GREP DEMO ====================================
+# ============================= GREP DEMO ====================================
 ***
 
-# =============== GREP ================
+/ =============== GREP ================
 - **grep** = Global Regular Expression Printer  
 - **grep** is used to search a particular pattern in files or folders  
 
 ***
 
-# ========== Syntax of GREP ============
+/========== Syntax of GREP ============
 ```bash
 grep [flags] [pattern] [file/folder]
 ```
@@ -60,7 +60,7 @@ APPLE
 
 ***
 
-# =============== FLAG EXAMPLES ===============
+/=============== FLAG EXAMPLES ===============
 
 ## FLAG: `-n`
 Show line number of match  
@@ -163,7 +163,7 @@ apple
 
 ***
 
-#================================ 🔎 Review Questions (Practice)====================================================
+# ================================ 🔎 Review Questions (Practice)=======================
 
 # Now lets see some of the review Questions in our curricum
 
@@ -262,7 +262,7 @@ $ grep -i "Harry" harry.txt | wc -l
 ✨ These review questions combine **grep, pipes, process handling, and find command** for hands-on practice.  
 
 
-#============== 
+
 
 # GREP Summary Table
 
