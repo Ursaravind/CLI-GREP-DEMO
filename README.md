@@ -255,7 +255,7 @@ Example:
 ```bash
 $ grep -i "Harry" harry.txt | wc -l
 ```
-👉 Counts all occurrences of **Harry** (case-insensitive).
+👉 Counts all occurrences of **Harry** .
 
 ***
 
