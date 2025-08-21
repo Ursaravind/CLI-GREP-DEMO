@@ -1,4 +1,4 @@
-# ============================= GREP DEMO ====================================
+# GREP DEMO
 ***
 
 / =============== GREP ================
@@ -163,9 +163,9 @@ apple
 
 ***
 
-# ================================ 🔎 Review Questions (Practice)=======================
+#  🔎 Review Questions 
 
-# Now lets see some of the review Questions in our curricum
+/ Now lets see some of the review Questions in our curricum
 
 ## 1️⃣ Get last **x** lines from a file (e.g., Harry Potter text)  
 ```bash
